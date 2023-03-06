@@ -18,4 +18,4 @@ def test_prime_number():
     assert check_prime_number(5) == True
 
 def test_square_number():
-    assert check_square_number(5) == True
+    assert check_square_number(9) == True
